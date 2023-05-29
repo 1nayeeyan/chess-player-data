@@ -20,6 +20,6 @@ Aditionally, Chess has become increasingly popular in the past few years, so I p
 
 The plan is to use python to get the datasets I need from the Chess.com Api and save them into csvs, possibly combining a few. Then, create a Jupyter Notebook for quick numerical analysis, and a Tableau Dashboard for visuals.
 
-##Edit
+## Edit
 
 After finding out that there are limits to requests from chess.com, this project is on hold until further assistance from chess.com developers.
